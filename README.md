@@ -25,3 +25,6 @@ Soy un Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y 
 <p>
 En la carrera Full Stack Web Developer del bootcamp SoyHenry y de la Tecnicatura Universitaria en Programación que actualmente estoy cursando en la Universidad Tecnológica Nacional. </p>
 
+<div>
+  <a href="mailto:marianxtorres@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+</div>
