@@ -20,3 +20,10 @@ Soy un Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y 
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 </div>
+
+
+<style>
+img:hover {
+  opacity: 0.5;
+}
+</style>
