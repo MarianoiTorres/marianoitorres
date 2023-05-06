@@ -11,7 +11,7 @@ Soy un Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y 
 
 <h4>Tecnologias</h4>
 <div style="display: inline-block">
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img style="opacity: 0.5" height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  />
@@ -22,8 +22,4 @@ Soy un Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y 
 </div>
 
 
-<style>
-img:hover {
-  opacity: 0.5;
-}
-</style>
+
