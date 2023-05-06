@@ -25,6 +25,9 @@ Soy un Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y 
 <p>
 En la carrera Full Stack Web Developer del bootcamp SoyHenry y de la Tecnicatura Universitaria en Programación que actualmente estoy cursando en la Universidad Tecnológica Nacional. </p>
 
+<h4>Contacto:</h4>
 <div>
-  <a href="mailto:marianxtorres@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+  <a href="mailto:marianxtorres@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mariano-torres-1b717b236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  <a href="https://www.instagram.com/mariano0o0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 </div>
