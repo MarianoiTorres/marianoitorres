@@ -35,7 +35,7 @@ Soy un Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y 
 <div>
   <div>
     <h4>Proyecto individual - SoyHenry</h4>
-    <img height="200px" width="500px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403451/pi_dh1mga.jpg">
+    <img height="300px" width="500px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403451/pi_dh1mga.jpg">
   </div>
   <div>
     <h4>The Chocolate Hub - Proyecto Final - SoyHenry</h4>
