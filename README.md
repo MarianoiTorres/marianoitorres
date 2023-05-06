@@ -6,7 +6,7 @@
 </div>
 
 <h4>¿Quién soy? 🤔</h4>
-<hr style="border: 0.1px solid gray;">
+<hr style="border: 1px solid black;">
 <p>
 Soy un Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y oportunidades para crecer profesionalmente, aprender nuevas tecnologías y mejorar mis habilidades. Me gusta trabajar en equipo y mi objetivo es seguir desarrollando mi carrera en el campo del desarrollo web. </p>
 
