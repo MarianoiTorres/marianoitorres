@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Mariano Torres</h1>
 <h3 align="center">Full Stack Web Developer 👨‍💻</h3>
 <div align="center"> 
-  <img style="margin-left: 10px" height="180em" src="https://github-readme-stats.vercel.app/api?username=marianoitorres&show_icons=true&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianoitorres&show_icons=true&theme=dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianoitorres&layout=compact&langs_count=16&theme=dark">
 </div>
 
@@ -21,4 +21,7 @@ Soy un Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y 
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 </div>
 
+<h4>¿Donde adquirí mis conocimientos?  🤔</h4>
+<p>
+En la carrera Full Stack Web Developer del bootcamp SoyHenry y de la Tecnicatura Universitaria en Programación que actualmente estoy cursando en la Universidad Tecnológica Nacional. </p>
 
