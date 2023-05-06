@@ -34,11 +34,11 @@ Soy un Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y 
 ## Mis proyectos 👀
 <div>
   <div>
-    <h4>Proyecto individual - SoyHenry</h4>
+    <h4>Proyecto individual - SoyHenry 🎮</h4>
     <img height="250px" width="500px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403451/pi_dh1mga.jpg">
   </div>
   <div>
-    <h4>The Chocolate Hub - Proyecto Final - SoyHenry</h4>
+    <h4>The Chocolate Hub - Proyecto Final - SoyHenry 🍫</h4>
     <img height="250px" width="500px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403463/pf1_hr3c8r.jpg">
     <img height="250px" width="500px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403464/pf2_zzlfru.jpg">
   </div<
