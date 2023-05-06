@@ -39,8 +39,8 @@ Soy un Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y 
   </div>
   <div>
     <h4>The Chocolate Hub - Proyecto Final - SoyHenry</h4>
-    <img src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403463/pf1_hr3c8r.jpg">
-    <img src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403464/pf2_zzlfru.jpg">
+    <img height="250px" width="500px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403463/pf1_hr3c8r.jpg">
+    <img height="250px" width="500px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403464/pf2_zzlfru.jpg">
   </div<
 </div>
 
