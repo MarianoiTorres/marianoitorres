@@ -31,6 +31,12 @@ Soy un Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y 
 <br>
 <br>
 
+## 🙌 Mis proyectos:
+
+
+<br>
+<br>
+
 ## ¿Donde adquirí mis conocimientos?🤔
 <p>
 En la carrera Full Stack Web Developer del bootcamp SoyHenry y de la Tecnicatura Universitaria en Programación que actualmente estoy cursando en la Universidad Tecnológica Nacional. </p>
