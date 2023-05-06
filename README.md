@@ -8,3 +8,7 @@
 <h4>¿Quién soy? 🤔</h4>
 <p>
 Soy un Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y oportunidades para crecer profesionalmente, aprender nuevas tecnologías y mejorar mis habilidades. Me gusta trabajar en equipo y mi objetivo es seguir desarrollando mi carrera en el campo del desarrollo web. </p>
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
