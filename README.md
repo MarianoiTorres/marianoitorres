@@ -23,7 +23,6 @@
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
   <div align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianoitorres&show_icons=true&theme=dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianoitorres&layout=compact&langs_count=16&theme=dark">
 </div>
 </div>
