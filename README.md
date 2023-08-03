@@ -25,7 +25,7 @@
 
 <br>
 
-## Formacion:
+## Formacion academica:
 
 <p>▷ Full Stack Web Developer - Bootcamp "Soy Henry" </p>
 <p>▷ Tecnicatura Universitaria en programación - Universidad Tecnológica Nacional </p>
