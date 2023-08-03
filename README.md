@@ -39,14 +39,14 @@
 ## Proyectos:
 <div>
   <div>
-    <h4>Proyecto individual - SoyHenry 🎮</h4>
-    <img height="180px" width="400px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403451/pi_dh1mga.jpg">
-  </div>
-  <div>
-    <h4>The Chocolate Hub - Proyecto Final - SoyHenry 🍫</h4>
+    <h4>The Chocolate Hub 🍫</h4>
     <img height="180px" width="400px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403463/pf1_hr3c8r.jpg">
     <img height="180px" width="400px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403464/pf2_zzlfru.jpg">
   </div<
+  <div>
+    <h4>Proyecto individual - SoyHenry 🎮</h4>
+    <img height="180px" width="400px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403451/pi_dh1mga.jpg">
+  </div>
 </div>
 
 
