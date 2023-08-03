@@ -1,17 +1,11 @@
 <h1 align="center">Hola, soy <u>Mariano Torres</u> 👋</h1>
 <h3 align="center">Full Stack Web Developer 👨‍💻</h3>
-<div align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianoitorres&show_icons=true&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianoitorres&layout=compact&langs_count=16&theme=dark">
-</div>
-
 <br>
 
-## ¿Quién soy?🤔
+## 
 <p>
-Soy un Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y oportunidades para crecer profesionalmente, aprender nuevas tecnologías y mejorar mis habilidades. Me gusta trabajar en equipo y mi objetivo es seguir desarrollando mi carrera en el campo del desarrollo web. </p>
+▷ Apasionado desarrollador web en constante crecimiento. En el último año, descubrí mi pasión por el desarrollo web y disfruto cada desafío que se presenta. Actualmente, estoy aprendiendo Angular y me gustaría aprender .NET. Disfruto resolver problemas y tengo como objetivo seguir desarrollando mi carrera en el mundo del desarrollo web. </p>
 
-<br>
 <br>
 
 ## Tecnologías:
@@ -26,9 +20,12 @@ Soy un Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y 
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-<br>
 <br>
 
 ## Mis proyectos 👀
@@ -54,6 +51,11 @@ En la carrera Full Stack Web Developer del bootcamp SoyHenry y de la Tecnicatura
 
 <br>
 <br>
+
+<div align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianoitorres&show_icons=true&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianoitorres&layout=compact&langs_count=16&theme=dark">
+</div>
 
 ## Contacto:
 <div>
