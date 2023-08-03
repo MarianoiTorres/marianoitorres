@@ -25,13 +25,13 @@
 
 <br>
 
-## Formacion academica:
+## Formacion académica:
 
 <p>▷ Full Stack Web Developer - Bootcamp "Soy Henry" </p>
 <p>▷ Tecnicatura Universitaria en programación - Universidad Tecnológica Nacional </p>
 
 <br>
-##Mis proyectos 👀
+## Proyectos:
 <div>
   <div>
     <h4>Proyecto individual - SoyHenry 🎮</h4>
