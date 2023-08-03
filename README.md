@@ -30,7 +30,7 @@
 <p>▷ Tecnicatura Universitaria en programación - Universidad Tecnológica Nacional </p>
 
 <br>
-## Mis proyectos 👀
+##Mis proyectos 👀
 <div>
   <div>
     <h4>Proyecto individual - SoyHenry 🎮</h4>
