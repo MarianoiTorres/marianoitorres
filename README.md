@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Mariano Torres</h1>
+<h1 align="center"><span style="font-size:36px;color:#ff7f50;">Hola, soy Mariano Torres 👋</span></h1>
 <h3 align="center">Full Stack Web Developer 👨‍💻</h3>
 <div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianoitorres&show_icons=true&theme=dark">
