@@ -1,7 +1,5 @@
 <h1 align="center">Hola, soy <u>Mariano Torres</u> 👋</h1>
 <h3 align="center">Full Stack Web Developer 👨‍💻</h3>
-<br>
-
 ## 
 <p>
 ▷ Apasionado desarrollador web en constante crecimiento. En el último año, descubrí mi pasión por el desarrollo web y disfruto cada desafío que se presenta. Actualmente, estoy aprendiendo Angular y me gustaría aprender .NET. Disfruto resolver problemas y tengo como objetivo seguir desarrollando mi carrera en el mundo del desarrollo web. </p>
