@@ -24,17 +24,22 @@
 </div>
 
 <br>
+## Formacion academica:
 
+<p>▷ Full Stack Web Developer - Bootcamp "Soy Henry" </p>
+<p>▷ Tecnicatura Universitaria en programación - Universidad Tecnológica Nacional </p>
+
+<br>
 ## Mis proyectos 👀
 <div>
   <div>
     <h4>Proyecto individual - SoyHenry 🎮</h4>
-    <img height="250px" width="500px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403451/pi_dh1mga.jpg">
+    <img height="180px" width="400px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403451/pi_dh1mga.jpg">
   </div>
   <div>
     <h4>The Chocolate Hub - Proyecto Final - SoyHenry 🍫</h4>
-    <img height="250px" width="500px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403463/pf1_hr3c8r.jpg">
-    <img height="250px" width="500px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403464/pf2_zzlfru.jpg">
+    <img height="180px" width="400px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403463/pf1_hr3c8r.jpg">
+    <img height="180px" width="400px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403464/pf2_zzlfru.jpg">
   </div<
 </div>
 
@@ -42,11 +47,7 @@
 <br>
 <br>
 
-## ¿Donde adquirí mis conocimientos?🤔
-<p>
-En la carrera Full Stack Web Developer del bootcamp SoyHenry y de la Tecnicatura Universitaria en Programación que actualmente estoy cursando en la Universidad Tecnológica Nacional. </p>
 
-<br>
 <br>
 
 <div align="center"> 
