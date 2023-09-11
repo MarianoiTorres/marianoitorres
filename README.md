@@ -50,17 +50,17 @@
    <div>
     <h4>Trello Clone 📖</h4>
     <img height="130px" width="300px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1693277282/1_udblnq.png">
-    <img height="180px" width="400px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1693277314/5_xphu4q.png">
-    <img height="180px" width="400px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1693277315/ezgif-5-66968bb787_maoc7l.gif">
+    <img height="130px" width="300px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1693277314/5_xphu4q.png">
+    <img height="130px" width="300px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1693277315/ezgif-5-66968bb787_maoc7l.gif">
   </div>
   <div>
     <h4>The Chocolate Hub 🍫</h4>
-    <img height="180px" width="400px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403463/pf1_hr3c8r.jpg">
-    <img height="180px" width="400px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403464/pf2_zzlfru.jpg">
+    <img height="130px" width="300px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403463/pf1_hr3c8r.jpg">
+    <img height="130px" width="300px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403464/pf2_zzlfru.jpg">
   </div>
   <div>
     <h4>Proyecto individual - SoyHenry 🎮</h4>
-    <img height="180px" width="400px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403451/pi_dh1mga.jpg">
+    <img height="130px" width="300px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403451/pi_dh1mga.jpg">
   </div>
 </div>
 
