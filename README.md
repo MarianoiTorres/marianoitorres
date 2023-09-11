@@ -49,7 +49,7 @@
 <div>
    <div>
     <h4>Trello Clone 📖</h4>
-    <img height="180px" width="400px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1693277282/1_udblnq.png">
+    <img height="130px" width="330px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1693277282/1_udblnq.png">
     <img height="180px" width="400px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1693277314/5_xphu4q.png">
     <img height="180px" width="400px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1693277315/ezgif-5-66968bb787_maoc7l.gif">
   </div>
