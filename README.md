@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenido a mi GitHub</u> 👋</h1>
-<h3 align="center">
+<h3>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><p align="center">Soy</p> <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Mariano+Ignacio+Torres;Full-Stack+Developer;&font=Fira%20Code&center=true&width=440&height=45&size=22"></a>
 </h3>
 <p>
