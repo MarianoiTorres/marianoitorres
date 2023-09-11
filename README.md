@@ -30,11 +30,9 @@
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <div align="center"> 
     <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianoitorres&layout=compact&langs_count=16&theme=dark">
-
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianoitorres&layout=donut&theme=midnight-purple&custom_title="hola")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianoitorres&layout=donut&theme=midnight-purple&custom_title=lenguajes-mas-usados)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
