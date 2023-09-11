@@ -57,6 +57,7 @@
     <h4>The Chocolate Hub 🍫</h4>
     <img height="130px" width="300px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403463/pf1_hr3c8r.jpg">
     <img height="130px" width="300px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403464/pf2_zzlfru.jpg">
+    <img height="130px" width="300px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTE5YjdxbTY3dXp1OTFiajVlOWl2OTlyejYwMWZmOGc4NXI2czhxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xD2LpyyJBLisrFlYnx/giphy.gif">
   </div>
   <div>
     <h4>Proyecto individual - SoyHenry 🎮</h4>
