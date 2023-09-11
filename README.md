@@ -8,19 +8,19 @@
 ## Tecnologías:
 <div style="display: inline-block">
   <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376273/portfolio/javascript_oivdzr.png" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376593/portfolio/typescript_ef9jqk.png" />
+  <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376570/portfolio/react_ni0xyw.png" />
+  <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376585/portfolio/redux_gphyac.png"  />
+  <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376548/portfolio/angular_qlybre.png" />
+  <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376608/portfolio/ngrx_nekolf.png" />
+  <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376596/portfolio/html_wj0owy.png" />
+  <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376599/portfolio/css_mha7qd.png" />
+  <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376563/portfolio/postgre_jxnzv7.png" />
+  <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376604/portfolio/mysql_sgdrht.png" />
+  <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376463/portfolio/sequelize_qxyuwh.png" />
+  <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376438/portfolio/node_n5hime.png" />
+  <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376486/portfolio/express_mgj843.png" />
+  <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376606/portfolio/bootstrap_lwmx3l.png" />
   <div align="center"> 
     <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianoitorres&layout=compact&langs_count=16&theme=dark">
