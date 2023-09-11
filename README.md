@@ -21,6 +21,7 @@
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <div align="center"> 
     <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianoitorres&layout=compact&langs_count=16&theme=dark">
