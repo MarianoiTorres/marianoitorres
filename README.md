@@ -2,6 +2,9 @@
 <h3 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Soy+Mariano+Ignacio+Torres;Soy+Full-Stack+Developer;&font=Fira%20Code&center=true&width=440&height=45&size=22"></a>
 </h3>
+<div>
+  <img src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694403221/banner1_k5tnen.jpg">
+</div>
 <p>
 ▷ Apasionado desarrollador web en constante crecimiento. En el último año, descubrí mi pasión por el desarrollo web y disfruto cada desafío que se presenta. Actualmente, estoy aprendiendo Python en la universidad y me gustaría aprender .NET. Disfruto resolver problemas y tengo como objetivo seguir desarrollando mi carrera en el mundo del desarrollo web. </p>
 
