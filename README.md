@@ -31,7 +31,7 @@
   <div align="center"> 
     <br>
 </div>
-<div>
+<div display="block>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianoitorres&layout=donut&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
