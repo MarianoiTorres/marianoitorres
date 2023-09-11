@@ -31,8 +31,12 @@
   <div align="center"> 
     <br>
 </div>
-
+<div>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianoitorres&layout=donut&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianoitorres&show_icons=true&theme=midnight-purple)
+</div>
 
 <br>
 
