@@ -14,7 +14,7 @@
   <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376548/portfolio/angular_qlybre.png" />
   <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376608/portfolio/ngrx_nekolf.png" />
   <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376596/portfolio/html_wj0owy.png" />
-  <img height="65px" width="65px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376599/portfolio/css_mha7qd.png" />
+  <img height="85px" width="85px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376599/portfolio/css_mha7qd.png" />
   <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376563/portfolio/postgre_jxnzv7.png" />
   <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376604/portfolio/mysql_sgdrht.png" />
   <img height="55px" width="55px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694376463/portfolio/sequelize_qxyuwh.png" />
