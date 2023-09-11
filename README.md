@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Bienvenidos+a+mi+GitHub+👋;&font=Fira%20Code&center=true&width=440&height=45&size=22"&color=8047a7></a></h1>
+<h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Bienvenidos+a+mi+GitHub+👋;&font=Fira%20Code&center=true&width=440&height=45&size=22&color=8047a7"></a></h1>
 
 <div>
   <img src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694403303/bannergit_hnz1k9.jpg">
