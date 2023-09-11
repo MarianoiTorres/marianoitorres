@@ -34,7 +34,7 @@
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianoitorres&layout=donut-vertical&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianoitorres&layout=donut&theme=midnight-purple&custom_title="hola")](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
