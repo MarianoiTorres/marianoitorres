@@ -3,8 +3,12 @@
 <div>
   <img src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694403303/bannergit_hnz1k9.jpg">
 </div>
+
+<br>
+
 <p>
-▷ Apasionado desarrollador web en constante crecimiento. En el último año, descubrí mi pasión por el desarrollo web y disfruto cada desafío que se presenta. Actualmente, estoy aprendiendo Python en la universidad y me gustaría aprender .NET. Disfruto resolver problemas y tengo como objetivo seguir desarrollando mi carrera en el mundo del desarrollo web. </p>
+▷ Apasionado desarrollador web en constante crecimiento. En el último año, descubrí mi pasión por el desarrollo web y disfruto cada desafío que se presenta. Actualmente, estoy aprendiendo Python en la universidad y me gustaría aprender .NET. Disfruto resolver problemas y tengo como objetivo seguir desarrollando mi carrera en el mundo del desarrollo web. 
+</p>
 
 <br>
 
