@@ -36,9 +36,6 @@ Para 2025, mi objetivo es profundizar en C# y ampliar mi experiencia con nuevas 
     <br>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianoitorres&layout=donut&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <br>
 
 ## Formacion académica:
