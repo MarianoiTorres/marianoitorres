@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Bienvenidos+a+mi+GitHub+👋;&font=Fira%20Code&center=true&width=440&height=45&size=22&color=481b91"></a></h1>
 
 <div>
-  <img src="https://res.cloudinary.com/djdqwkavb/image/upload/v1694403303/bannergit_hnz1k9.jpg">
+  <img src="https://res.cloudinary.com/djdqwkavb/image/upload/v1734325495/WhatsApp_Image_2024-11-21_at_2.09.46_AM_aqioie.jpg">
 </div>
 
 <br>
