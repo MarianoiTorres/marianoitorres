@@ -7,7 +7,11 @@
 <br>
 
 <p>
-▷ Apasionado desarrollador web en constante crecimiento. En el último año, descubrí mi pasión por el desarrollo web y disfruto cada desafío que se presenta. Actualmente, estoy aprendiendo Python en la universidad y me gustaría aprender .NET. Disfruto resolver problemas y tengo como objetivo seguir desarrollando mi carrera en el mundo del desarrollo web. 
+Soy Mariano Torres, desarrollador Full Stack enfocado en seguir mejorando cada día. Actualmente estoy trabajando en un proyecto personal que me desafía a aplicar lo que sé y a aprender nuevas herramientas en el proceso.
+</br>
+Para 2025, mi objetivo es profundizar en C# y ampliar mi experiencia con nuevas tecnologías. Este espacio lo utilizo para mostrar proyectos, ideas y el camino que voy recorriendo en el mundo del desarrollo.
+
+¡Gracias por pasarte! 🚀
 </p>
 
 <br>
@@ -39,8 +43,8 @@
 
 ## Formacion académica:
 
+<p>▷ Tecnicatura Universitaria en Programación - Universidad Tecnológica Nacional </p>
 <p>▷ Full Stack Web Developer - Bootcamp "Soy Henry" </p>
-<p>▷ Tecnicatura Universitaria en programación - Universidad Tecnológica Nacional </p>
 
 <br>
 
