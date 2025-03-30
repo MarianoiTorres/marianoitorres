@@ -6,12 +6,18 @@
 
 <br>
 
-<p>
-Soy Mariano Torres, desarrollador Full Stack enfocado en seguir mejorando cada día. Actualmente estoy trabajando en un proyecto personal que me desafía a aplicar lo que sé y a aprender nuevas herramientas en el proceso.
-</br>
-Para 2025, mi objetivo es profundizar en C# y ampliar mi experiencia con nuevas tecnologías. Este espacio lo utilizo para mostrar proyectos, ideas y el camino que voy recorriendo en el mundo del desarrollo.
-</br>
-¡Gracias por pasarte! 🚀
+<p align="center">
+  <strong>Soy Mariano Torres,</strong> Técnico Universitario en Programación / Full Stack Web Developer.  
+  Mi gusto está orientado al desarrollo de aplicaciones, lo que me lleva a desarrollar proyectos personales con el objetivo de solventar problemas de las personas.
+</p>
+
+<p align="center">
+  Para 2025, mi objetivo es profundizar en C# y ampliar mi experiencia con nuevas tecnologías.  
+  Este espacio lo utilizo para mostrar proyectos, ideas y el camino que voy recorriendo en el mundo del desarrollo.
+</p>
+
+<p align="center">
+  ¡Gracias por pasarte! 🚀
 </p>
 
 <br>
