@@ -22,7 +22,7 @@
 
 <br>
 
-## Tecnologías:
+## Que hago?:
 <div style="display: inline-block">
   <!--img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
