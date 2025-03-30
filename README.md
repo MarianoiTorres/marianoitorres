@@ -47,6 +47,7 @@
 ## Formacion académica:
 
 <p>▷ Tecnicatura Universitaria en Programación - Universidad Tecnológica Nacional </p>
+<p>▷ Diplomatura en .NET - Universidad Tecnológica Nacional  </p>
 <p>▷ Full Stack Web Developer - Bootcamp "Soy Henry" </p>
 
 <br>
