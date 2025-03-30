@@ -66,12 +66,12 @@
     <img height="130px" width="270px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403464/pf2_zzlfru.jpg">
     <img height="130px" width="270px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQyZHo3ZWlqMW1wcG9wYnZ6d3VqbHpjb3h1bGc5enBseHVjNW9zNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wDPoUyW9a1y6fzFI7R/giphy.gif">
   </div>
-  <div>
+  <!--div>
     <h4>Proyecto individual - SoyHenry 🎮</h4>
     <img height="130px" width="270px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1684008036/Captura_ktt5bg.png">
     <img height="130px" width="270px" src="https://res.cloudinary.com/djdqwkavb/image/upload/v1683403451/pi_dh1mga.jpg">
     <img height="130px" width="270px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhlYThsd2g1Mnd0aWI2cnh3bnAzNTZwZmJqYXczeWhuM2I4MWdrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/18uVlBBk1oxDUqFhGl/giphy.gif">
-  </div>
+</div-->
 </div>
 
 
