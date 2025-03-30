@@ -39,7 +39,7 @@
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /-->
   <p align="center">
-    Trabaje con JavaScript, TypeScript en proyectos tantos personales como laborales con React, Angular, ExpresJs. 
+    Trabaje y trabajo con JavaScript, TypeScript en proyectos tantos personales como laborales con React, Angular, ExpresJs. 
   </p>
   <p align="center">
     Actualmente trabajo en haciendo ajustes, customizaciones, desarrollos con Odoo (python, javascript) y desarrollando aplicaciones con Angular que se conectan a Odoo
