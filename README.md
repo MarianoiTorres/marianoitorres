@@ -24,7 +24,7 @@
 
 ## Tecnologías:
 <div style="display: inline-block">
-  <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <!--img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
@@ -37,8 +37,17 @@
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <div align="center"> 
+  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /-->
+  <p align="center">
+    Trabaje con JavaScript, TypeScript en proyectos tantos personales como laborales con React, Angular, ExpresJs. 
+  </p>
+  <p align="center">
+    Actualmente trabajo en haciendo ajustes, customizaciones, desarrollos con Odoo (python, javascript) y desarrollando aplicaciones con Angular que se conectan a Odoo
+  </p>
+  <p align="center">
+    Estoy aprendiendo C# y desarrollando proyectos personales :D
+  </p>
+  <div align="center">
     <br>
 </div>
 
