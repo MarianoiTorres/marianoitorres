@@ -42,7 +42,7 @@
     Trabaje y trabajo con JavaScript, TypeScript en proyectos tantos personales como laborales con React, Angular, ExpresJs. 
   </p>
   <p align="center">
-    Actualmente trabajo en haciendo ajustes, customizaciones, desarrollos con Odoo (python, javascript) y desarrollando aplicaciones con Angular que se conectan a Odoo
+    Actualmente trabajo haciendo ajustes, customizaciones, desarrollos con Odoo (python, javascript) y desarrollando aplicaciones con Angular que se conectan a Odoo
   </p>
   <p align="center">
     Estoy aprendiendo C# y desarrollando proyectos personales :D
