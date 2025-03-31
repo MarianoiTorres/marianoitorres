@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>Soy Mariano Torres,</strong> Técnico Universitario en Programación / Full Stack Web Developer.  
-  Mi gusto está orientado al desarrollo de aplicaciones, lo que me lleva a desarrollar proyectos personales con el objetivo de solventar problemas de las personas.
+  Mi gusto está orientado al desarrollo de aplicaciones, lo que me lleva a desarrollar proyectos personales con el objetivo de solventar los problemas de las personas.
 </p>
 
 <p align="center">
