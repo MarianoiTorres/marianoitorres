@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Mariano+Ignacio+Torres;&font=Fira%20Code&center=true&width=440&height=45&size=22&color=ffffff"></a></h1>
-
+ 
 <div>
   <img src="https://res.cloudinary.com/djdqwkavb/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1743364702/b7b3e3fc-b92a-45ed-9f05-d60082c1e782_qbi0ek.png">
 </div>
